@@ -1,6 +1,6 @@
 # Hi 👋, I'm Swati Yadav
 
-💡 **MERN Full Stack Developer | Frontend & Backend Enthusiast | Problem Solver**  
+💡 MERN Full Stack Developer | Next.js, React & Node.js Enthusiast | Backend & Frontend Problem Solver | MongoDB & API Integration | Cloud Deployment Ready | Passionate About Scalable Web Apps 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Swatiyadavv&style=for-the-badge&color=blue)
 
