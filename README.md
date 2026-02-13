@@ -59,7 +59,7 @@ A hyperlocal community platform connecting users based on **shared interests**.
 
 🔹 **Portfolio Website**  
 Showcases **my projects, skills, and professional journey** with a clean, modern layout.  
-**Stack:** React.js, HTML, CSS  
+**Stack:** Next.js, HTML, CSS  
 
 ---
 
