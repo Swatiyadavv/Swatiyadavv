@@ -94,5 +94,5 @@ Always eager to **learn, collaborate, and contribute to impactful projects**.
   <a href="mailto:swatiyadav66145@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Swatiyadavv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/swati-yadav-817b81309/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
+<!-- /  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a> -->
 </p>
