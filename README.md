@@ -63,14 +63,7 @@ Showcases **my projects, skills, and professional journey** with a clean, modern
 
 ---
 
-### 🎓 Academic Background
 
-- **MCA** – Maharaja Ranjit Singh College of Professional Sciences, Indore | CGPA: 7.2 *(2024–2026)*  
-- **BCA** – Shri Cloth Market Institute of Professional Studies | CGPA: 7.8 *(2024)*  
-- **12th** – Shri Cloth Market Girls School (MP Board) | 82% *(2021)*  
-- **10th** – Shri Cloth Market Girls School (MP Board) | 81% *(2019)*  
-
----
 
 ### 🏅 Certifications & Workshops
 
